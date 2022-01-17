@@ -50,7 +50,7 @@ All about full stack developer roadmap, guidance and resources.
 - [Download Roadmap](https://miro.com/app/board/o9J_lj8UCkc=/?invite_link_id=829899894771)
 
 ## 🔗 Connect with me
-[![portfolio](https://img.shields.io/badge/my_portfolio-FFF?style=for-the-badge&logo=ko-fi&logoColor=white)](http://rmmungse.infinityfreeapp.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-FFF?style=for-the-badge&logo=ko-fi&logoColor=black)](http://rmmungse.infinityfreeapp.com)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mungse)
 
