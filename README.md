@@ -6,6 +6,9 @@ All about full stack developer roadmap, guidance and resources.
 
 ![Full Stack Development](https://www.linkpicture.com/q/poster_fullstack.png)
 
+## 🔥 Roadmap
+![Roadmap](https://www.linkpicture.com/q/Screenshot-2022-01-26-at-2.03.26-PM.png)
+
 
 ## Video tutorials
 
