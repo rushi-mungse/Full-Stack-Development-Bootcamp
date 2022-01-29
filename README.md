@@ -13,7 +13,7 @@ All about full stack developer roadmap, guidance and resources.
 ## Video tutorials
 
 #### 🔥 Roadmap
- - [Full-stack Roadmap]()
+ - [Full-stack Roadmap](https://youtu.be/WdZxf6aBL4c)
 
 #### 🔥 HTML
 - Basic HTML
